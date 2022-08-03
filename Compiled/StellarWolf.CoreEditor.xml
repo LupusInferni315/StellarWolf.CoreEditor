@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StellarWolf.CoreEditor</name>
+    </assembly>
+    <members>
+        <member name="T:StellarWolf.CoreEditor.DicePropertyDrawer">
+            <summary>
+            Property Drawer for Dice
+            </summary>
+        </member>
+        <member name="M:StellarWolf.CoreEditor.DicePropertyDrawer.GetPropertyHeight(UnityEditor.SerializedProperty,UnityEngine.GUIContent)">
+            <inheritdoc/>
+        </member>
+        <member name="M:StellarWolf.CoreEditor.DicePropertyDrawer.OnGUI(UnityEngine.Rect,UnityEditor.SerializedProperty,UnityEngine.GUIContent)">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
